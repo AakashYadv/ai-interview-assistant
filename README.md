@@ -1,4 +1,4 @@
-LIVE AT:  https://ai-interview-assistant-gmve.vercel.app/
+DEPLOYED LINK:  https://ai-interview-assistant-gmve.vercel.app/
 
 # AI Interview Assistant
 
